@@ -1,5 +1,5 @@
 # web-development-hands-on :beginner:
-/play greatjob
+
 
 ### :pushpin:Difference between margin or padding:
 If you enter 4 values, they will be applied clockwise, starting from the top. You can shorten this process to entering 2 values, in which case the browser applies the first value to the top and bottom and the second to left and right.
@@ -33,4 +33,4 @@ The values mentioned in the above mentioned CSS file have been intentionally giv
 
 
 
-![GitHub Logo](/images/logo.png)
+
