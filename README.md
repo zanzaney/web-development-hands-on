@@ -1,4 +1,4 @@
-# web-development-hands-on
+# web-development-hands-on :beginner:
 
 
 ### Difference between margin or padding:
@@ -16,7 +16,7 @@ Margin's auto value is automatically calculated by the browser for the maximum v
 When you want to include an image from the internet on your web page, always use an image that is twice the size that it would be when displayed on your web page. Doing so would ensure a high resolution display of the image. For example, if teh image's size required on your webpage is 200x200, then the image file size should be 400x400.
 
 ### File size:
-File size matters very important as it affects the speed of the webpage loading. Many online tools can be used to compress images. Image file sizes more than 1 MB are not preferable.
+File size is very important as it affects the speed of the webpage loading. Many online tools can be used to compress images. Image file sizes more than 1 MB are not preferable.
 
 ### 0px vs 0
 Though 0px is not a wrong syntax, not using the unit with 0 is preferred in CSS as the code is clear in that case.
