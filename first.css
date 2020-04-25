@@ -4,4 +4,12 @@ body {
 
 .container {
   /* Code here */
+     margin: 24px auto; /*24 px top/bottom and auto left/right*/
+    padding: 0 16px;/* 0 top/bottom and 16px left/right*/
+    max-width: 960px;
+  
+}
+
+img{
+  width:183px;
 }
