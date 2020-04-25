@@ -24,6 +24,6 @@ Though 0px is not a wrong syntax, not using the unit with 0 is preferred in CSS 
 ### :pushpin:Use of ```alt``` attribute while using images:
 ```alt``` is an abbreviation for ```alternate```. Hence, if due to some reason the image is not rendered by the browser, the textual alternative is displayed.
 
-### :pushpin:Use of shadow colour other than black:grey_question::
+### :pushpin:Use of shadow colour other than black:
 Though usually shadow's colour is specified as black by most developers, it is not preferred to use black as the shadow colour for all background colours. Instead, the shadow colour should ideally be darker than the background colour.
 
