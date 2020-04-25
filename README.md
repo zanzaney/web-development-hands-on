@@ -4,9 +4,9 @@
 ### :pushpin:Difference between margin or padding:
 If you enter 4 values, they will be applied clockwise, starting from the top. You can shorten this process to entering 2 values, in which case the browser applies the first value to the top and bottom and the second to left and right.
 
-margin: 10px 20px 10px 8px --> top / right / bottom / left
+margin: 10px 20px 10px 8px :arrow_right: top / right / bottom / left
 
-margin: 10px 20px --> vertical(top/down) / Horizontal(left/right)
+margin: 10px 20px :arrow_right: vertical(top/down) / Horizontal(left/right)
 
 
 ### :pushpin:margin: auto;
