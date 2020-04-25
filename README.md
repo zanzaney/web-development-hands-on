@@ -18,5 +18,8 @@ When you want to include an image from the internet on your web page, always use
 ### :pushpin:File size:
 File size is very important as it affects the speed of the webpage loading. Many online tools can be used to compress images. Image file sizes more than 1 MB are not preferable.
 
-### :pushpin:0px vs 0
+### :pushpin:0px vs 0:
 Though 0px is not a wrong syntax, not using the unit with 0 is preferred in CSS as the code is clear in that case.
+
+### :pushpin:Use of ```alt``` attribute while using images:
+```alt``` is an abbreviation for ```alternate```. Hence, if due to some reason the image is not rendered by the browser, the textual alternative is displayed.
