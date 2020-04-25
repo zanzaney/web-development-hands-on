@@ -28,7 +28,7 @@ Though 0px is not a wrong syntax, not using the unit with 0 is preferred in CSS 
 Though usually shadow's colour is specified as black by most developers, it is not preferred to use black as the shadow colour for all background colours. Instead, the shadow colour should ideally be darker than the background colour.
 
 ### :pushpin:Value numbers are multiples of 8 in https://github.com/zanzaney/web-development-hands-on/blob/master/second.css:
-The values mentioned in the above mentioned CSS file have been intentionally given as multiples of 8. This is to maintain the consistency of the webpage display on standard resolution displays as well as the ones with higher resolution.
+The values in the above mentioned CSS file have been intentionally given as multiples of 8. This is to maintain the consistency of the webpage display on standard resolution displays as well as the ones with higher resolution.
 
 
 
