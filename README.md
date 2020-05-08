@@ -30,6 +30,10 @@ Though usually shadow's colour is specified as black by most developers, it is n
 ### :pushpin:Value numbers are multiples of 8 in https://github.com/zanzaney/web-development-hands-on/blob/master/second.css:
 The values in the above mentioned CSS file have been intentionally given as multiples of 8. This is to maintain the consistency of the webpage display on standard resolution displays as well as the ones with higher resolution.
 
+### :pushpin:Tables
+As creating tables is a very cumbersome task, you can refer to this website for creating tables.
+https://www.tablesgenerator.com/html_tables
+
 
 
 
