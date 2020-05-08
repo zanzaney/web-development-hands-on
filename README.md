@@ -34,6 +34,9 @@ The values in the above mentioned CSS file have been intentionally given as mult
 As creating tables is a very cumbersome task, you can refer to this website for creating tables.
 https://www.tablesgenerator.com/html_tables
 
+### :pushpin:```colspan```
+```colspan``` merges cells horizontally. ```colspan=2``` means two cells are merged horizontally. ```rowspan``` is used to combine cells vertically. 
+
 
 
 
