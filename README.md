@@ -35,7 +35,7 @@ As creating tables is a very cumbersome task, you can refer to this website for 
 https://www.tablesgenerator.com/html_tables
 
 ### :pushpin:```colspan```
-```colspan``` merges cells horizontally. ```colspan=2``` means two cells are merged horizontally. ```rowspan``` is used to combine cells vertically. 
+```colspan``` merges cells horizontally. ```colspan="2"``` means two cells are merged horizontally. ```rowspan``` is used to combine cells vertically. 
 
 
 
