@@ -37,7 +37,8 @@ https://www.tablesgenerator.com/html_tables
 ### :pushpin:```colspan```
 ```colspan``` merges cells horizontally. ```colspan="2"``` means two cells are merged horizontally. ```rowspan``` is used to combine cells vertically. 
 
-
+### :pushpin:```border-collapse```
+```border-collapse``` either collapses the borders,i.e, makes them appear as one border or the borders are separate. The ```collapse``` property merges all the borders to appear as one border. The ```separate``` property keeps the boders separate.
 
 
 
